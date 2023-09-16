@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import React from "react";
-import styles from "./Nav.module.scss";
+import styles from "./Nav.Module.scss";
 
 type Props = {
   route?: string;
